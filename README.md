@@ -14,7 +14,7 @@ I'm [Mohamed], a passionate [Game Dev] from [MA]. Welcome to my GitHub profile! 
 
 ## 📈 GitHub Stats
 
-![🐠](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical)
+![🐠](https://github-readme-stats.vercel.app/api?username=mait-elk42&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 📫 Let's Connect
 
