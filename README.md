@@ -20,6 +20,6 @@ I'm [Mohamed], a passionate [Game Dev] from [MA]. Welcome to my GitHub profile! 
 
 - Twitter: [@newstrangerX](https://twitter.com/newstrangerX)
 - Facebook: [@newstrangerX](https://facebook.com/newstrangerX)
-- LinkedIn: [@newstrangerX](https://www.linkedin.com/in/newstrangerX)
+- LinkedIn: [@newstrangerX](https://www.linkedin.com/in/new-stranger-a36564286)
 
 Feel free to explore my repositories and don't hesitate to reach out! 😊
