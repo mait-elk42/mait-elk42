@@ -8,6 +8,7 @@ I'm [Mohamed], a passionate [Game Dev] from [MA]. Welcome to my GitHub profile! 
 ![JAVA](https://img.shields.io/badge/JAVA-%2300599C.svg?style=for-the-badge&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logoColor=white)
+![Csharp](https://img.shields.io/badge/c#-%2300599C.svg?style=for-the-badge&logoColor=white)
 
 - 🚀 Frameworks: Mobile Apps, Games
 - 🛠️ Tools: Android Studio , Unity
