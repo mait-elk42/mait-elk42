@@ -15,7 +15,10 @@ I'm [Mohamed], a passionate [Game Dev] from [MA]. Welcome to my GitHub profile! 
 
 ## 🌱 I'm Currently Learning
 
-.......Hidden Information......
+- low level programming
+- game devlopment
+- cyber security / pentesting
+- having fun to learn any new tech
 
 ## 📈 GitHub Stats
 
@@ -23,6 +26,7 @@ I'm [Mohamed], a passionate [Game Dev] from [MA]. Welcome to my GitHub profile! 
 
 ## 📫 Let's Connect
 
+- My Website: [@Portfolio](https://mait-elk.github.io)
 - Twitter: [@newstrangerX](https://twitter.com/newstrangerX)
 - Facebook: [@newstrangerX](https://facebook.com/newstrangerX)
 - LinkedIn: [@newstrangerX](https://www.linkedin.com/in/new-stranger-a36564286)
