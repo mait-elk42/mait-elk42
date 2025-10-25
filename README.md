@@ -1,34 +1,52 @@
-# Hi there! 👋
+# Hi there! 👋 I'm Mohamed (aka New Stranger)
 
-I'm [Mohamed], a passionate [Game Dev] from [MA]. Welcome to my GitHub profile! 🚀
+I'm a passionate **Game Developer** from **Morocco (MA)**, exploring the worlds of **game dev, low-level programming, web development, android native apps (JAVA), and cybersecurity thinking**. Welcome to my GitHub profile! 🚀
+
+---
 
 ## 🔧 Technologies & Tools
 
-###  💻 Languages >
+### 💻 Languages
 ![JAVA](https://img.shields.io/badge/JAVA-%2300599C.svg?style=for-the-badge&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logoColor=white)
-![Cs](https://img.shields.io/badge/cs-%2300599C.svg?style=for-the-badge&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logoColor=white)
 
-- 🚀 Frameworks: Android Apps, Games
-- 🛠️ Tools: Android Studio , Unity, Godot
+### 🚀 Frameworks & Engines
+- **Unity** (C#) ["RPOCEDURAL ANIMATION SYSTEM", "STATE MACHINE", "GAMEPLAY OPTIMIZATION", ...]
+- **Godot** (C++ / GDScript) ["GAMEJAMS", "FAVORITE GAME ENGINE"]
+- **NodeJS** (Fastify/Socket.io) ["BACKEND MATCHMAKING SYSTEM", "GAMEPLAY REMOTE", "TOURNAMENT SYSTEM", ...]
+- **Android Studio** (Java) ["OPTIMIZED RESPONSIVE COOL UI", "ANDROID API"] 
+- **Raylib / SDL** (C/C++) ["LOW LEVEL GAME DEVELOPMENT SYSTEMS", "PHYSICS", "OPTIMIZED RENDERING"]
 
-## 🌱 I'm Currently Learning
+### 🛠️ Tools
+- Git / GitHub
+- Docker & Containers
+- Figma & Photoshop
+- VS Code / CLion / Android Studio
 
-- low level programming
-- game devlopment
-- cyber security / pentesting
-- having fun to learn any new tech
+---
 
-## 📈 GitHub Stats
+## 🌱 Currently Learning
+- Low-level programming & memory management 🖥️
+- Advanced **GAME DEVELOPMENT** techniques 🎮
+- security **Cybersecurity / Pentesting** 🔒
+- Experimenting with new **tech stacks** for fun ⚡
+---
 
-![🐠](https://github-readme-stats.vercel.app/api?username=mait-elk42&show_icons=true&count_private=true&hide=prs&theme=radical)
+## 📊 GitHub Stats
+![🐠 GitHub Stats](https://github-readme-stats.vercel.app/api?username=mait-elk42&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+![🔥 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mait-elk42&layout=compact&theme=radical)
+
+---
 
 ## 📫 Let's Connect
+[💼 LinkedIn](https://www.linkedin.com/in/mohamed-ait-elkadi-a36564286/) | [🐦 Twitter](https://twitter.com/newstrangerX) | [📘 Facebook](https://facebook.com/newstrangerX) |
 
-- My Website: [@Portfolio](https://mait-elk.github.io)
-- Twitter: [@newstrangerX](https://twitter.com/newstrangerX)
-- Facebook: [@newstrangerX](https://facebook.com/newstrangerX)
-- LinkedIn: [@newstrangerX](https://www.linkedin.com/in/new-stranger-a36564286)
+---
 
-Feel free to explore my repositories and don't hesitate to reach out! 😊
+### ✨ Fun Fact
+I love mixing **game development** with **learning new tech**, and I sometimes create my own **mini programming languages & game engines** just for fun. 🎨⚡
+---
+
