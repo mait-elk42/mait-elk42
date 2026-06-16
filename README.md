@@ -13,7 +13,7 @@ I'm a passionate **Game Developer** from **Morocco (MA)**, exploring the worlds 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logoColor=white)
 
 ### 🚀 Frameworks & Engines
-- **Unity** (C#) ["RPOCEDURAL ANIMATION SYSTEM", "STATE MACHINE", "GAMEPLAY OPTIMIZATION", ...]
+- **Unity** (C#) ["PROCEDURAL ANIMATION SYSTEM", "STATE MACHINE", "GAMEPLAY OPTIMIZATION", ...]
 - **Godot** (C++ / GDScript) ["GAMEJAMS", "FAVORITE GAME ENGINE"]
 - **NodeJS** (Fastify/Socket.io) ["BACKEND MATCHMAKING SYSTEM", "REALTIME ONLINE GAMEPLAY", "TOURNAMENT SYSTEM", ...]
 - **Android Studio** (Java) ["OPTIMIZED RESPONSIVE UI", "ANDROID API"] 
