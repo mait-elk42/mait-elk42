@@ -15,8 +15,8 @@ I'm a passionate **Game Developer** from **Morocco (MA)**, exploring the worlds 
 ### 🚀 Frameworks & Engines
 - **Unity** (C#) ["RPOCEDURAL ANIMATION SYSTEM", "STATE MACHINE", "GAMEPLAY OPTIMIZATION", ...]
 - **Godot** (C++ / GDScript) ["GAMEJAMS", "FAVORITE GAME ENGINE"]
-- **NodeJS** (Fastify/Socket.io) ["BACKEND MATCHMAKING SYSTEM", "GAMEPLAY REMOTE", "TOURNAMENT SYSTEM", ...]
-- **Android Studio** (Java) ["OPTIMIZED RESPONSIVE COOL UI", "ANDROID API"] 
+- **NodeJS** (Fastify/Socket.io) ["BACKEND MATCHMAKING SYSTEM", "REALTIME ONLINE GAMEPLAY", "TOURNAMENT SYSTEM", ...]
+- **Android Studio** (Java) ["OPTIMIZED RESPONSIVE UI", "ANDROID API"] 
 - **Raylib / SDL** (C/C++) ["LOW LEVEL GAME DEVELOPMENT SYSTEMS", "PHYSICS", "OPTIMIZED RENDERING"]
 
 ### 🛠️ Tools
