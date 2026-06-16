@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mohamed (aka New Stranger)
+# Hi! 👋 I'm Mohamed (aka New Stranger)
 
 I'm a passionate **Game Developer** from **Morocco (MA)**, exploring the worlds of **game dev, low-level programming, web development, android native apps (JAVA), and cybersecurity thinking**. Welcome to my GitHub profile! 🚀
 
